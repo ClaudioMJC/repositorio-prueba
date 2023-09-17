@@ -1,2 +1,2 @@
 # repositorio-prueba
-repositorio de prueba práctica
+repositorio de prueba práctica (readme)
